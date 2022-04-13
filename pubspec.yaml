@@ -1,0 +1,66 @@
+name: deviniti_app
+description: Deviniti app.
+ 
+publish_to: 'none'  
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0" 
+
+dependencies:
+  flutter:
+    sdk: flutter
+  freezed_annotation: ^1.1.0
+  flutter_bloc: ^7.0.1  
+  cupertino_icons: ^1.0.2
+  json_annotation: ^4.0.1
+  sqflite: ^2.0.2
+  path:  
+  rxdart: 
+  intl:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  #freezed: ^1.1.1
+  flutter_lints: ^1.0.0
+  build_runner: ^2.0.1
+  json_serializable: 
+  flutter_launcher_icons:  
+  bloc_test: 
+  mockito:
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+ 
+  image_path: "dev_assets/icon_plant.png"  
+
+flutter: 
+  uses-material-design: true
+  assets:
+    - images/plant.png
+   
+
+  fonts:
+    - family: Source Sans Pro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf 
+
+    - family: Source Sans Pro Bold
+      fonts:
+        - asset: fonts/SourceSansPro-Black.ttf
+
+    - family: NotoSans
+      fonts:
+        - asset: fonts/NotoSans-Regular.ttf
+
+    - family: Helvetica
+      fonts:
+        - asset: fonts/helvetica-heavy.ttf    
+
+
+  
+  
