@@ -15,10 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<div style="width: 60%; height: 60%">
-  
- ![alt text](https://user-images.githubusercontent.com/3342811/163236754-7bd0a84b-1cb3-4bcd-86f9-89a2426fd05a.png?raw=true)
-  
-</div>
 
+<img width="322" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/3342811/163236754-7bd0a84b-1cb3-4bcd-86f9-89a2426fd05a.png">
 
